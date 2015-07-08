@@ -1,0 +1,5 @@
+default["saas_bizx_seb"]["repo"] = " http://moo-repo.wdf.sap.corp:8080/static/saas/platform/config"
+default["saas_bizx_seb"]["file_name"] = "Install_Files_SEB_jboss-eap-6.2_b1405"
+default["saas_bizx_seb"]["homeDir"] = "/export/home/jboss"
+default["saas_bizx_seb"]["groupName"] = "sfuser"
+default["saas_bizx_seb"]["userName"] = "sfuser"
